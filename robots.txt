@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://pages.crayon-montreal.ca/sitemap.xml
